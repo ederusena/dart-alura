@@ -154,7 +154,7 @@ class Citricas extends Fruta {
 
   @override
   void fazerMassa() {
-    print('Tirar a casca - $nome');
+    print('Descascar - $nome');
     super.fazerMassa();
   }
 }
